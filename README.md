@@ -8,7 +8,7 @@ This project uses a dummy login (no authentication), a dashboard with intern det
 ## Features  
 
 ### Frontend
-- **Dummy Login /Signup page(no auth)
+- Dummy Login /Signup page(no auth)
 -**Dashboard**:
  - Intern name
  - Dummy referral code
@@ -36,34 +36,37 @@ git clone
 cd   
 ```
 ### Install dependencies
-For Frontend:
-```cd frontend
-npm install ```
+**For Frontend:**
+```bash
+cd frontend
+npm install
 
-For backend:
-```cd backend
-npm install```
+For Backend:
+cd backend
+npm install
 
 create .env file in frontend root folder:
+
 VITE_BACKEND_URL=http://localhost:5000
 
 Start the Backend
-```npm run server
+npm run server
 
 Start the Frontend
-```npm run dev
+npm run dev
 
-```markdown
+
 ## 📸 Screenshots
 
 **Login/Signup page:** 
-![Login Screenshot](frontend/screenshots/login.png)
+![Login Screenshot](screenshots/login.png)
 
 **Dashboard:**
-![Dashboard Screenshot](frontend/screenshots/dashboard.png)
+![Dashboard Screenshot](screenshots/dashboard.png)
 
 **Leader Board:**
-![Leader Board Screenshot](frontend/screenshots/leaderboard.png)
+![Leader Board Screenshot](screenshots/leaderboard.png)
 
 ## Live Link
+
 
