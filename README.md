@@ -53,20 +53,17 @@ Start the Backend
 Start the Frontend
 ```npm run dev
 
-📸 Screenshots
+```markdown
+## 📸 Screenshots
 
-Login/Signup page: 
-``` markdown
+**Login/Signup page:** 
 ![Login Screenshot](frontend/screenshots/login.png)
 
-Dashboard:
-``` markdown
+**Dashboard:**
 ![Dashboard Screenshot](frontend/screenshots/dashboard.png)
 
-Leader Board: 
-``` markdown
+**Leader Board:**
 ![Leader Board Screenshot](frontend/screenshots/leaderboard.png)
-
 
 ## Live Link
 
