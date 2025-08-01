@@ -32,38 +32,47 @@ This project uses a dummy login (no authentication), a dashboard with intern det
 
 ### Clone the repo
 ```bash
-git clone 
-cd   
+git clone https://github.com/Mansi-prasad/Intern-Portal-Dashboard  
+cd Intern-Portal-Dashboard  
 ```
 ### Install dependencies
-**For Frontend:**
-cd frontend
-npm install
+**For Frontend:**  
+```bash
+cd frontend  
+npm install  
+```
 
-**For Backend:**
-cd backend
+**For Backend:**  
+```bash
+cd backend  
 npm install
+```  
 
 create .env file in frontend root folder:
 
-VITE_BACKEND_URL=http://localhost:5000
+```bash VITE_BACKEND_URL=http://localhost:5000 ```
 
 Start the Backend
-npm run server
+```bash npm run server ```
 
 Start the Frontend
-npm run dev
+```bash npm run dev ```
 
 
 ## 📸 Screenshots
 
 **Login/Signup page:** 
+
 ![Login Screenshot](screenshots/login.png)
 
+![Signup Screenshot](screenshots/register.png)
+
 **Dashboard:**
+
 ![Dashboard Screenshot](screenshots/dashboard.png)
 
 **Leader Board:**
+
 ![Leader Board Screenshot](screenshots/leaderboard.png)
 
 ## Live Link
