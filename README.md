@@ -50,13 +50,19 @@ npm install
 
 create .env file in frontend root folder:
 
-```bash VITE_BACKEND_URL=http://localhost:5000 ```
+```bash 
+VITE_BACKEND_URL=http://localhost:5000 
+```
 
 Start the Backend
-```bash npm run server ```
+```bash
+npm run server 
+```
 
 Start the Frontend
-```bash npm run dev ```
+```bash 
+npm run dev 
+```
 
 
 ## 📸 Screenshots
