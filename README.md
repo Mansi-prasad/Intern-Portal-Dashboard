@@ -37,11 +37,10 @@ cd
 ```
 ### Install dependencies
 **For Frontend:**
-```bash
 cd frontend
 npm install
 
-For Backend:
+**For Backend:**
 cd backend
 npm install
 
