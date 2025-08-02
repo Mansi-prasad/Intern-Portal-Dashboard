@@ -81,6 +81,5 @@ npm run dev
 
 ![Leader Board Screenshot](screenshots/leaderboard.png)
 
-## Live Link
-
-
+## Live Link  
+https://intern-portal-dashboard.vercel.app/
